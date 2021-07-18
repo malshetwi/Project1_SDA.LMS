@@ -1,0 +1,11 @@
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\bin\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.deps.json
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\bin\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.runtimeconfig.json
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\bin\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.runtimeconfig.dev.json
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\bin\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.dll
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\bin\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.pdb
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\obj\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.csprojAssemblyReference.cache
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\obj\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.csproj.CoreCompileInputs.cache
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\obj\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.AssemblyInfoInputs.cache
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\obj\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.AssemblyInfo.cs
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\obj\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.dll
+C:\Users\msh32\source\repos\malshetwi_Project1_SDA.LMS\obj\Debug\netcoreapp2.1\malshetwi_Project1_SDA.LMS.pdb
